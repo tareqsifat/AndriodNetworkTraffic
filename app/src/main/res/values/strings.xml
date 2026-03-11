@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Network Monitor</string>
+    <string name="vpn_description">Network Monitor captures and analyzes network traffic to detect suspicious activity. No payload content is stored.</string>
+    <string name="notification_channel_name">Network Monitor VPN</string>
+    <string name="notification_channel_desc">Shows when the network monitor is active</string>
+</resources>
